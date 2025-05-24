@@ -156,7 +156,7 @@ int main() {
 
 
 /* 
-JOSHUA FASHE, B00883132.
+JOSHUA FASHE.
 SOURCES USED:
 
 - https://www.youtube.com/watch?v=-NA_B_vJP14 (for generating random numbers)
